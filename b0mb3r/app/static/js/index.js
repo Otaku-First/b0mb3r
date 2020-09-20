@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             'by',
             'custom',
         ],
-        initialCountry: 'ru',
+        initialCountry: 'ua',
         separateDialCode: true,
     });
 
