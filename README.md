@@ -30,7 +30,7 @@
 2. **Установите b0mb3r**, введя следующую команду в [командную строку](http://comp-profi.com/kak-vyzvat-komandnuyu-stroku-ili-konsol-windows/) (Windows), терминал (Linux) или Termux (Android):
 
 ```sh
-pip3 install b0mb3r -U
+pip3 install https://github.com/Otaku-First/b0mb3r/archive/master.zip --upgrade
 ```
 
 ## 🚩 Запуск
